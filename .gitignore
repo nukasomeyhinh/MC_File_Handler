@@ -1,0 +1,108 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.csproj.user
+
+# Auto-generated files
+*.rsuser
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+
+# Visual Studio folder
+.vs/
+
+# Build output folders
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet packages
+*.nupkg
+# Restore packages instead of tracking them
+packages/
+!**/packages/build/
+*.snupkg
+
+# .NET Core specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.deps.json
+*.runtimeconfig.json
+
+# Publish output
+publish/
+*.publish.xml
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_TemporaryKey.pfx
+
+# Rider and VS Code
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Tooling
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.env.*
+
+# Optional: if you use docker
+docker-compose.override.yml
+.dockerignore
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Backup & temp
+~$*
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Others
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
