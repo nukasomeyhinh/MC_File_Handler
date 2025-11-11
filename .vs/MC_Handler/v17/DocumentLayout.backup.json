@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MC_Server_File_Handler\\MC_Handler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|c:\\mc_server_file_handler\\mc_handler\\mc_handler\\shutdownguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|solutionrelative:mc_handler\\shutdownguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|c:\\mc_server_file_handler\\mc_handler\\mc_handler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|solutionrelative:mc_handler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|c:\\mc_server_file_handler\\mc_handler\\mc_handler\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|solutionrelative:mc_handler\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|c:\\mc_server_file_handler\\mc_handler\\mc_handler\\handlerlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|solutionrelative:mc_handler\\handlerlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|c:\\mc_server_file_handler\\mc_handler\\mc_handler\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|solutionrelative:mc_handler\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|c:\\mc_server_file_handler\\mc_handler\\mc_handler\\dropboxclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|solutionrelative:mc_handler\\dropboxclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|c:\\mc_server_file_handler\\mc_handler\\mc_handler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCBB5982-68FB-4AE2-9BB2-4DA1A34A2922}|MC_Handler\\MC_Handler.csproj|solutionrelative:mc_handler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShutdownGuard.cs",
+              "DocumentMoniker": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\ShutdownGuard.cs",
+              "RelativeDocumentMoniker": "MC_Handler\\ShutdownGuard.cs",
+              "ToolTip": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\ShutdownGuard.cs",
+              "RelativeToolTip": "MC_Handler\\ShutdownGuard.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwGIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:08:03.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HandlerLog.cs",
+              "DocumentMoniker": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\HandlerLog.cs",
+              "RelativeDocumentMoniker": "MC_Handler\\HandlerLog.cs",
+              "ToolTip": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\HandlerLog.cs",
+              "RelativeToolTip": "MC_Handler\\HandlerLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:52:04.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\appsettings.json",
+              "RelativeDocumentMoniker": "MC_Handler\\appsettings.json",
+              "ToolTip": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\appsettings.json",
+              "RelativeToolTip": "MC_Handler\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T16:49:55.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DropboxClient.cs",
+              "DocumentMoniker": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\DropboxClient.cs",
+              "RelativeDocumentMoniker": "MC_Handler\\DropboxClient.cs",
+              "ToolTip": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\DropboxClient.cs",
+              "RelativeToolTip": "MC_Handler\\DropboxClient.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAmwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:51:48.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\Utils.cs",
+              "RelativeDocumentMoniker": "MC_Handler\\Utils.cs",
+              "ToolTip": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\Utils.cs",
+              "RelativeToolTip": "MC_Handler\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:52:22.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\Program.cs",
+              "RelativeDocumentMoniker": "MC_Handler\\Program.cs",
+              "ToolTip": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\Program.cs",
+              "RelativeToolTip": "MC_Handler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:47:57.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\Handler.cs",
+              "RelativeDocumentMoniker": "MC_Handler\\Handler.cs",
+              "ToolTip": "C:\\MC_Server_File_Handler\\MC_Handler\\MC_Handler\\Handler.cs",
+              "RelativeToolTip": "MC_Handler\\Handler.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAcwKUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:53:07.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

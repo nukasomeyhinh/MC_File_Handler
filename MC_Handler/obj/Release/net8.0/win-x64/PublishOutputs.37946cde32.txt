@@ -1,0 +1,3 @@
+C:\MC_Handler\MC_Handler.pdb
+C:\MC_Handler\appsettings.json
+C:\MC_Handler\MC_Handler.exe
